@@ -1,0 +1,12 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "Pure Node.js project - User Management API with Flower Shop template",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["nodejs", "api", "no-framework"],
+  "author": "",
+  "license": "ISC"
+}
